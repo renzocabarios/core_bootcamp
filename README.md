@@ -13,3 +13,8 @@
 - 5-erc20 + staking
 - 6-erc721
 - 7-ideation
+
+### Extras
+
+- Defi (AMM)
+- The GRAPH
